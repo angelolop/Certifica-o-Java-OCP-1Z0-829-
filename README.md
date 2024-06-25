@@ -6,3 +6,5 @@ O curso que eu fiz para criar estas anotações foi o [Java Certification Exam P
 ](https://www.udemy.com/course/java-certification-exam-prep-oca-1z0-808-ocp-1z0-829) criado pelo **Luka Popov**.
 
 Este repositório começará a partir da seção 3 do curso disponível na Udemy.
+
+## Operators
